@@ -1,9 +1,22 @@
 Getting started with Pega Blue print and Constellation
 *Setting up pega dev environment
   -Pega Community Edition
+    -register for environement
+      -https://community.pega.com/get-started/community-edition
+    -find your machines
   -Pega LSA Course VM
 
 *Pega Expert Circles
   -join
 *Pega Blueprint
   -https://pega.com/blueprint
+  -star new blue print
+  -collect requirements
+  -Build builprint
+  -Review and adjust
+  -Export blueprint
+*Build application with blueprint
+  -import blueprint to pega community
+  -show imported blueprint
+  -review and dicuss generated application
+*Questions
